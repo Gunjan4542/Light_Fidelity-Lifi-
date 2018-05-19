@@ -1,5 +1,5 @@
-This Lifi project is create with JAVA to create a GUI.
-An Arduino to demostrate the experiment.
+This Lifi project is created with JAVA to create a GUI.
+Arduinos are used to demostrate the experiment.
 A module is required to be imported for Serial Communication in JAVA. It can be found in the following github repository:-
 https://github.com/scream3r/java-simple-serial-connector.
 
